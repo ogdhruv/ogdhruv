@@ -8,8 +8,8 @@ console = Console(width=120, record=True)
 tree = Tree("[link=https://www.github.com/ogdhruv]Dhruv",
             guide_style="bold cyan")
 my_tree = tree.add("Learning python", guide_style="bold purple")
-my_tree.add("Right on the #100DayofWeb")
-my_tree.add("On the road to Django web development")
+my_tree.add("Right now on the #100DayofWeb")
+my_tree.add("On the road to Django web development and DevOps")
 
 project = tree.add("My projects", guide_style="bold green")
 project.add("will add soon")
