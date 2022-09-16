@@ -1,4 +1,5 @@
-<pre style="font-family:'Space Mono','DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="font-weight: bold">Hello! Everyone 👋</span>
+### Hello! Everyone 👋
+<pre style="font-family:'Space Mono','DejaVu Sans Mono',consolas,'Courier New',monospace">
 <span style="color: #800000; text-decoration-color: #800000">┏━━━━━━━━━━━━━━ </span><span style="color: #800000; text-decoration-color: #800000; font-weight: bold">Hello fellow dev!</span><span style="color: #800000; text-decoration-color: #800000"> ━━━━━━━━━━━━━━━┓</span> <a href="https://www.github.com/ogdhruv">Dhruv</a>                                
 <span style="color: #800000; text-decoration-color: #800000">┃</span>                                                <span style="color: #800000; text-decoration-color: #800000">┃</span> <span style="color: #008080; text-decoration-color: #008080">┣━━ </span>Learning python                  
 <span style="color: #800000; text-decoration-color: #800000">┃</span> Hi, i am Dhruv, a sophomore pursuing my        <span style="color: #800000; text-decoration-color: #800000">┃</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #af00ff; text-decoration-color: #af00ff">┣━━ </span>Right now on the #100DayofWeb
@@ -8,5 +9,6 @@
 <span style="color: #800000; text-decoration-color: #800000">┃</span> is spent on terminal and DSA.                  <span style="color: #800000; text-decoration-color: #800000">┃</span> <span style="color: #008080; text-decoration-color: #008080">    </span><span style="color: #008000; text-decoration-color: #008000">┣━━ </span><a href="https://github.com/ogdhruv/faster-kid">fasterKid</a>                    
 <span style="color: #800000; text-decoration-color: #800000">┃</span>                                                <span style="color: #800000; text-decoration-color: #800000">┃</span> <span style="color: #008080; text-decoration-color: #008080">    </span><span style="color: #008000; text-decoration-color: #008000">┗━━ </span>soon will add more           
 <span style="color: #800000; text-decoration-color: #800000">┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛</span>                                      
-<span style="font-weight: bold">🌐 Get in Touch:</span>
 </pre>
+### 🌐 Get in Touch:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhruv-r-a87564183/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/OGdhruv) 
