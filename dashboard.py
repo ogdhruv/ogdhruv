@@ -33,7 +33,7 @@ panel = Panel.fit(about, box=box.HEAVY, border_style="red",
 console.print("Hello! Everyone :wave:",style="bold")
 console.print(Columns([panel, tree]))
 console.print(":globe_with_meridians: Get in Touch:",style="bold")
-console.print(touch)
+print(touch)
 
 HTML_FORMAT = """\
 <pre style="font-family:'Space Mono','DejaVu Sans Mono',consolas,'Courier New',monospace">{code}</pre>

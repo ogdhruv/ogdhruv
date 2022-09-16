@@ -9,9 +9,4 @@
 <span style="color: #800000; text-decoration-color: #800000">┃</span>                                                <span style="color: #800000; text-decoration-color: #800000">┃</span> <span style="color: #008080; text-decoration-color: #008080">    </span><span style="color: #008000; text-decoration-color: #008000">┗━━ </span>soon will add more           
 <span style="color: #800000; text-decoration-color: #800000">┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛</span>                                      
 <span style="font-weight: bold">🌐 Get in Touch:</span>
-
-    <span style="font-weight: bold">[</span>!<span style="font-weight: bold">[</span>LinkedIn<span style="font-weight: bold">](</span><span style="color: #0000ff; text-decoration-color: #0000ff; text-decoration: underline">https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white)</span><span style="font-weight: bold">](</span><span style="color: #0000ff; text-decoration-color: #0000ff; text-decoration: underline">https://linkedin.co</span>
-<span style="color: #0000ff; text-decoration-color: #0000ff; text-decoration: underline">m/in/https://www.linkedin.com/in/dhruv-r-a87564183/)</span> <span style="font-weight: bold">[</span>!<span style="font-weight: bold">[</span>Twitter<span style="font-weight: bold">](</span><span style="color: #0000ff; text-decoration-color: #0000ff; text-decoration: underline">https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo</span>
-<span style="color: #0000ff; text-decoration-color: #0000ff; text-decoration: underline">=Twitter&amp;logoColor=white)</span><span style="font-weight: bold">](</span><span style="color: #0000ff; text-decoration-color: #0000ff; text-decoration: underline">https://twitter.com/OGdhruv)</span> 
-
 </pre>
