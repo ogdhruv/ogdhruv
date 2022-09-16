@@ -12,7 +12,8 @@ my_tree.add("Right now on the #100DayofWeb")
 my_tree.add("Django and Javascript")
 my_tree.add("DevOps")
 project = tree.add("My projects", guide_style="bold green")
-project.add("will add soon")
+project.add("[link=https://github.com/ogdhruv/faster-kid]fasterKid")
+project.add("soon will add more")
 
 
 about = """
@@ -22,11 +23,17 @@ I'm learning Python right now, most of my time
 is spent on terminal and DSA.
 """
 
+touch = """
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhruv-r-a87564183/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/OGdhruv) 
+"""
 
 panel = Panel.fit(about, box=box.HEAVY, border_style="red",
                   title="[bold]Hello fellow dev!", width=50)
 
+console.print("Hello! Everyone :wave:",style="bold")
 console.print(Columns([panel, tree]))
+console.print(":globe_with_meridians: Get in Touch:",style="bold")
+console.print(touch)
 
 HTML_FORMAT = """\
 <pre style="font-family:'Space Mono','DejaVu Sans Mono',consolas,'Courier New',monospace">{code}</pre>
