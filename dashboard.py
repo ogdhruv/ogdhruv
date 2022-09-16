@@ -5,15 +5,15 @@ from rich.panel import Panel
 from rich.tree import Tree
 
 console = Console(width=120, record=True)
-tree = Tree("[link=https://www.github.com/ogdhruv]Dhruv",
+tree = Tree("[bold]😎️[link=https://www.github.com/ogdhruv]Dhruv[/bold]",
             guide_style="bold cyan")
-my_tree = tree.add("Learning python", guide_style="bold purple")
-my_tree.add("Right now on the #100DayofWeb")
-my_tree.add("Django and Javascript")
-my_tree.add("DevOps")
-project = tree.add("My projects", guide_style="bold green")
-project.add("[link=https://github.com/ogdhruv/faster-kid]fasterKid")
-project.add("soon will add more")
+my_tree = tree.add("[bold]🐍️Learning python[/bold]", guide_style="bold purple")
+my_tree.add("📈️#100DayofWeb")
+my_tree.add("Django")
+my_tree.add("👨‍💻️DevOps")
+project = tree.add("[bold]💻️My projects[/bold]", guide_style="bold green")
+project.add("🌟️[link=https://github.com/ogdhruv/faster-kid]fasterKid")
+project.add("🗓️soon will add more")
 
 
 about = """
@@ -27,8 +27,8 @@ additional_add_touch = """
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhruv-r-a87564183/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/OGdhruv) 
 """
 
-panel = Panel.fit(about, box=box.HEAVY, border_style="red",
-                  title="[bold]Hello fellow dev!", width=50)
+panel = Panel.fit(about, box=box.HEAVY, border_style="white",
+                  title="[bold]Hello fellow dev!✌️", width=50)
 
 console.print(Columns([panel, tree]))
 
