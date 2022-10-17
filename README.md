@@ -7,4 +7,5 @@
 <span style="color: #c0c0c0; text-decoration-color: #c0c0c0">┃</span> is spent on terminal and DSA.                  <span style="color: #c0c0c0; text-decoration-color: #c0c0c0">┃</span> <span style="color: #008080; text-decoration-color: #008080">    </span><span style="color: #008000; text-decoration-color: #008000">┣━━ </span>🌟️<a href="https://github.com/ogdhruv/whats-the-meaning">WTM: a cli dictionary</a>
 <span style="color: #c0c0c0; text-decoration-color: #c0c0c0">┃</span>                                                <span style="color: #c0c0c0; text-decoration-color: #c0c0c0">┃</span> <span style="color: #008080; text-decoration-color: #008080">    </span><span style="color: #008000; text-decoration-color: #008000">┗━━ </span>🌟️<a href="https://github.com/ogdhruv/blog-it">blog-it</a>              
 <span style="color: #c0c0c0; text-decoration-color: #c0c0c0">┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛</span>                                
+[![@ogdhruv's Holopin board](https://holopin.me/ogdhruv)](https://holopin.io/@ogdhruv)
 </pre>
