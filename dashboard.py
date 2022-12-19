@@ -6,24 +6,24 @@ from rich.tree import Tree
 
 console = Console(width=120, record=True)
 tree = Tree(
-    "[bold]😎️[link=https://www.github.com/ogdhruv]Dhruv[/bold]", guide_style="bold cyan"
+    "[bold]😎️[link=https://www.linkedin.com/in/dhruv-r-a87564183/]Dhruv[/bold]", guide_style="bold cyan"
 )
-my_tree = tree.add("[bold]🐍️Learning python[/bold]", guide_style="bold purple")
+my_tree = tree.add("[bold]🐍️Learning Python[/bold]", guide_style="bold purple")
 my_tree.add("Django")
 my_tree.add("DevOps")
+my_tree.add("ML")
 project = tree.add("[bold]💻️My projects[/bold]", guide_style="bold green")
-project.add("🌟️[link=https://github.com/ogdhruv/faster-kid]fasterKid")
+project.add("🌟️[link=https://github.com/ogdhruv/hirethemv2]Hire Them")
 project.add(
-    "🌟️[link=https://github.com/ogdhruv/whats-the-meaning]WTM: a cli dictionary"
+    "🌟️[link=https://github.com/ogdhruv/duptwt]DuplexTwT (API)"
 )
-project.add("🌟️[link=https://github.com/ogdhruv/blog-it]blog-it")
-
+project.add("🌟️[link=https://github.com/ogdhruv/faster-kid]FasterKid")
 
 about = """
-Hi, i am Dhruv, a sophomore pursuing my bachelors in Computer Science and Engineering.
-I have a passion of learning everything.
-I'm learning Python right now, most of my time
-is spent on terminal and DSA.
+Hi, i am Dhruv, a final year student pursuing my bachelors in Computer Science.
+I have a passion of learning and .
+I'm learning Django right now, most of my time
+is spent on understanding microservices and learning new Technologies.
 """
 
 additional_add_touch = """
