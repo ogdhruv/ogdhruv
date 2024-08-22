@@ -4,7 +4,7 @@ from rich.console import Console
 from rich.panel import Panel
 from rich.tree import Tree
 
-console = Console(width=120, record=True)
+console = Console(width=140, record=True)
 tree = Tree(
     "[bold]😎️[link=https://www.linkedin.com/in/dhruv-r-a87564183/]Dhruv[/bold]", guide_style="bold cyan"
 )
@@ -20,8 +20,8 @@ project.add(
 project.add("🌟️[link=https://github.com/ogdhruv/faster-kid]FasterKid")
 
 about = """
-Hi, i am Dhruv, a final year student pursuing my bachelors in Computer Science.
-I have a passion of learning and .
+Hi, i am Dhruv,I have completed my bachelors in Computer Science.
+I have a passion of learning new things and implementing them.
 I'm learning Django right now, most of my time
 is spent on understanding microservices and learning new Technologies.
 """
